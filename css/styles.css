@@ -1,0 +1,185 @@
+
+  body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family:'Montserrat' serif;
+  }
+
+  a{
+    color: #3498db;
+    font-family:'Montserrat' serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  a:hover{
+    color: #EAf6F6;
+  }
+
+  hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 50px auto;
+  }
+
+  p{
+    line-height: 1.5;
+  }
+
+  h1{
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    line-height: 1;
+  }
+
+  h2{
+      color: #3498db;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+  }
+
+  .sd{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 0;
+    color: white;
+  }
+
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #3498db;
+    font-size: 150%;
+  }
+
+  .skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+    line-height: 2;
+  }
+
+  .deer{
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+
+  .topContainer{
+     background: linear-gradient(to bottom, skyblue, #FAF7F0);
+    height: 400px;
+    width: 100%;
+    margin-top: 0;
+    position: relative;
+    padding-top: 100px;
+  }
+  .salesforce-logo{
+    width: 10%;
+    position: absolute;
+    top: 40px;
+    left: 16%;
+  }
+
+  .cycle{
+    width: 22%;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+  }
+
+  .grass{
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  .computer{
+    width: 15%;
+    position: absolute;
+    bottom: 10px;
+    left: 40%;
+  }
+
+  .www{
+    width: 7%;
+    position: absolute;
+    top: 40px;
+    right: 7%;
+  }
+
+  .earth{
+    width: 5%;
+    position: absolute;
+    top: 42px;
+    right: 3%;
+  }
+  .icon{
+    height: 150px;
+    margin-top: 20px;
+  }
+
+  .rkun-icon{
+    width: 100px;
+    float: right;
+      margin-left: 30px;
+  }
+  .einsein-icon{
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .computer-icon{
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+  }
+  .intro{
+    width: 30%;
+    margin: auto;
+  }
+
+  .lasrPera{
+    width: 30%;
+    margin: 40px auto 80px;
+  }
+
+  .btn {
+    background: #3498db;
+    font-family:'Montserrat' serif;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+
+  .bottom-container{
+    background-color: skyblue;
+    margin-top: 25px;
+    padding: 30px 0 10px;
+  }
+
+  .copyright{
+    margin-top: 40px;
+    margin-bottom: 0;
+    color: #CDFCF6;
+    font-size: 1rem;
+  }
